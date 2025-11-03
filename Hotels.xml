@@ -88,7 +88,7 @@
   </Hotel>
 
   <Hotel Rating="4.3">
-    <Name>AC Hotel by Marriott Phoenix Tempe</Name>
+    <Name>AC Hotel by Marriott Phoenix Tempe at the Lake</Name>
     <Phone>480-642-6140</Phone>
     <Address Number="100">
       <Street>E Rio Salado Pkwy</Street>
@@ -100,7 +100,7 @@
   </Hotel>
 
   <Hotel Rating="3.8">
-    <Name>Hampton Inn & Suites Tempe</Name>
+    <Name>Hampton Inn &amp; Suites Tempe</Name>
     <Phone>480-410-6400</Phone>
     <Address Number="1415">
       <Street>N Scottsdale Rd</Street>
